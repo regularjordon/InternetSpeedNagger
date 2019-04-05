@@ -37,5 +37,4 @@
 
 *** 
 
-## See it live
-[This](https://twitter.com/eusoumeo) Twitter account is currently running this script. You can check it out to see how the script works.
+
